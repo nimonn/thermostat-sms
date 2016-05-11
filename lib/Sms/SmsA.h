@@ -2,6 +2,7 @@
 #define SMSA_H
 
 #include <Constantes.h>
+#include <Phone.h>
 
 #include <SoftwareSerial.h>
 #include <Arduino.h>
